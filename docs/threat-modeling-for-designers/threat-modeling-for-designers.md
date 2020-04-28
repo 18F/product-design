@@ -31,7 +31,7 @@ As a framework, _threat modeling for designers_ will help designers:
 
 ## Resources
 
-Note: When researching resources, be aware of authors' backgrounds and biases — Security and threat modeling are heavily authored by a certain demographic, and instead make an effort to find authors from various backgrounds, especially those who are likely to experience vulnerable situations.
+**Note:** When researching resources, be aware of authors' backgrounds and biases — Security and threat modeling are heavily authored by a certain demographic, and instead make an effort to find authors from various backgrounds, especially those who are likely to experience vulnerable situations.
 
 - **External resources**
   - **Articles**
@@ -49,6 +49,8 @@ Note: When researching resources, be aware of authors' backgrounds and biases �
     - [Tweet thread](https://twitter.com/cattsmall/status/1176653824460775424) by Catt Small on building trust and responsibility into the process 
 
 - **Internal resources**
-  - [18F Methods: Decide - Design hypothesis / Harm prompt](https://methods.18f.gov/decide/design-hypothesis/) 
-    - > ... consider the following harm prompt to help the team think about and guard against potential unintended consequences of your work. `But, this could be harmful for [this user] if [this outcome happens].`
-  - [Doc: Exercises to identify harm in design](https://docs.google.com/document/d/14WP93iljyATBJOBVtpQGcYDoz_oLVmARW_j4-3qPvMM/) :lock: by Christine Bath (with additions by Nick Ng)
+  - **Websites**
+    - [18F Methods: Decide - Design hypothesis / Harm prompt](https://methods.18f.gov/decide/design-hypothesis/) 
+    - "... consider the following harm prompt to help the team think about and guard against potential unintended consequences of your work. — '**_But, this could be harmful for [this user] if [this outcome happens]_**.'"
+  - **Docs**
+    - 🔒 [Doc: Exercises to identify harm in design](https://docs.google.com/document/d/14WP93iljyATBJOBVtpQGcYDoz_oLVmARW_j4-3qPvMM/) by Christine Bath (with additions by Nick Ng)
