@@ -44,7 +44,8 @@ As a framework, _threat modeling for designers_ will help designers:
       - Speculative question: The seven deadly sins concept is framed on modern westerrn society / Christianity thought. How might this look in another framework, e.g. eastern thoughts of "sin" or "evil"? For example in Chinese thought, "sin" is typically framed as wrongdoing, but more about only _if you're caught_. How do we determine that the intention is wrong? 
   - **Talks**
     - [Design Strategies for Building Safer Platforms](https://www.infoq.com/presentations/strategies-safer-platforms/) by Kat Fukui, Product Designer at GitHub
-      - Fukui explores 1) user safety, 2) consent-driven design, 3) encouraging inclusive behavior while discouraging destructive behavior, 4) design a paper trail for support team to investigate abuse reports 
+      - Fukui explores 1) user safety, 2) consent-driven design, 3) encouraging inclusive behavior while discouraging destructive behavior, 4) design a paper trail for support team to investigate abuse reports
+    - [Shining Light on Dark Patterns](https://drunkenux.com/podcast/dux41/) by Ron Bronson with follow resources on the site
   - **Tweets** 
     - [Tweet thread](https://twitter.com/cattsmall/status/1176653824460775424) by Catt Small on building trust and responsibility into the process 
 
