@@ -1,12 +1,14 @@
 # Threat Modeling for Designers
 
-This is a living, work-in-progress documentation to shape how might _Threat Modeling_ (borrowing from security field) looks like for designers. Alternatively, we can relabel "threat modeling" as "risk assessment."
+This is a living, work-in-progress documentation to shape how _Threat Modeling_ (borrowing from security field) might look like for designers. 
 
-We welcome collaboration on this documentation — Suggest and create a PR to add, suggest improvement, etc.
+Note: Based on the feedback from few 18F designers, "threat modeling" as a concept may be not be palatable for designers who are not familiar with security, so we are exploring other names for it, e.g. "risk assessment" to create a bridge for designers into the world of security. With this mind, we would frame this resource as a way to help designers strategize how to build safer platforms.
+
+We welcome collaboration on this documentation.
 
 ## Why
 
-As a framework, _threat modeling for designers_ will help designers:
+As a resource, _threat modeling for designers_ will help designers:
 
 1. Understand the threats users face in design, and how designers can identify and prevent harm to their users
 2. Make security more manageable
@@ -14,7 +16,7 @@ As a framework, _threat modeling for designers_ will help designers:
 
 ## How
 
-*The process of speculating with questions*
+*Questions about the resource itself*
 
 - High-level, "How might..." questions to ask ourselves
   - When might threat modeling for designers be useful?
