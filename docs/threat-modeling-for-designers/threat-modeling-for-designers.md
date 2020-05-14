@@ -16,7 +16,7 @@ As a resource, _threat modeling for designers_ will help designers:
 
 ## How
 
-*Questions about the resource itself*
+### Questions we have about the resource itself
 
 - High-level, "How might..." questions to ask ourselves
   - When might threat modeling for designers be useful?
@@ -26,10 +26,15 @@ As a resource, _threat modeling for designers_ will help designers:
 - Additional questions
   - [Add yours here]
 
-*Identify and research real world cases and examples*
+### Identify and research real world cases and examples
 
 - Discover how they are addressed, resolved or not, etc.
 - Identify both external and internal (18F/TTS) cases/examples
+
+## When
+
+In practice, this resource would be part of pre-mortem.
+
 
 ## Resources
 
