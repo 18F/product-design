@@ -1,16 +1,16 @@
 # Threat Modeling for Designers
 
-This is a living, work-in-progress documentation to shape how might _Threat Modeling_ (borrowing from security field) look like for designers. Alternatively, we can relabel "threat modeling" as "risk assessment."
+This is a living, work-in-progress documentation to shape how might _Threat Modeling_ (borrowing from security field) looks like for designers. Alternatively, we can relabel "threat modeling" as "risk assessment."
 
-We welcome collobration on this documentation — Suggest and create a PR to add, suggest improvement, etc.
+We welcome collaboration on this documentation — Suggest and create a PR to add, suggest improvement, etc.
 
 ## Why
 
 As a framework, _threat modeling for designers_ will help designers:
 
-1. Understand the threats users face and how designers can counter those threats
+1. Understand the threats users face in design, and how designers can identify and prevent harm to their users
 2. Make security more manageable
-3. Collobrate with partner(s) and colleagues to develop an understanding of our/their assets, adversaries, and capaiblities
+3. Collaborate with partner(s) and colleagues to develop an understanding of our/their assets, adversaries, and capabilities
 
 ## How
 
@@ -41,7 +41,6 @@ As a framework, _threat modeling for designers_ will help designers:
   - **Websites**
     - [Dark Patterns](https://www.darkpatterns.org/) - Its purpose is to spread awareness of dark patterns, which are tricks used in websites and apps that make you do things that you didn't mean to. Also has a [reading list](https://www.darkpatterns.org/reading-list)
     - [Evil by Design](https://evilbydesign.info/) - Evil design implementations grouped under the seven deadly sins, with tips on how to use each pattern, and examples from real life and the Web. 
-      - Speculative question: The seven deadly sins concept is framed on modern westerrn society / Christianity thought. How might this look in another framework, e.g. eastern thoughts of "sin" or "evil"? For example in Chinese thought, "sin" is typically framed as wrongdoing, but more about only _if you're caught_. How do we determine that the intention is wrong? 
   - **Talks**
     - [Design Strategies for Building Safer Platforms](https://www.infoq.com/presentations/strategies-safer-platforms/) by Kat Fukui, Product Designer at GitHub
       - Fukui explores 1) user safety, 2) consent-driven design, 3) encouraging inclusive behavior while discouraging destructive behavior, 4) design a paper trail for support team to investigate abuse reports
