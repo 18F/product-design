@@ -60,4 +60,4 @@ In practice, this resource would be part of pre-mortem.
     - "... consider the following harm prompt to help the team think about and guard against potential unintended consequences of your work. — '**_But, this could be harmful for [this user] if [this outcome happens]_**.'"
   - **Docs and spreadsheets**
     - 🔒 [Doc: Exercises to identify harm in design](https://docs.google.com/document/d/14WP93iljyATBJOBVtpQGcYDoz_oLVmARW_j4-3qPvMM/) by Christine Bath (with additions by Nick Ng)
-    - 🔒 [Risk Tracker](https://docs.google.com/spreadsheets/d/1vdCD4fUdauwdm_Ru17qxPm09820lXHfRcKBroNTUs84/edit#gid=0): Keep track of risks that your project is likely to face or - in the spirit of being ethical technologists - may itself create
+    - 🔒 [Risk tracker template](https://docs.google.com/spreadsheets/d/1vdCD4fUdauwdm_Ru17qxPm09820lXHfRcKBroNTUs84/edit#gid=0): Keep track of risks that your project is likely to face or - in the spirit of being ethical technologists - may itself create
