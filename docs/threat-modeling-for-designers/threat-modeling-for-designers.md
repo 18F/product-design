@@ -35,7 +35,6 @@ As a resource, _threat modeling for designers_ will help designers:
 
 In practice, this resource would be part of pre-mortem.
 
-
 ## Resources
 
 **Note:** When researching resources, be aware of authors' backgrounds and biases — Security and threat modeling are heavily authored by a certain demographic, and instead make an effort to find authors from various backgrounds, especially those who are likely to experience vulnerable situations.
@@ -59,5 +58,6 @@ In practice, this resource would be part of pre-mortem.
   - **Websites**
     - [18F Methods: Decide - Design hypothesis / Harm prompt](https://methods.18f.gov/decide/design-hypothesis/) 
     - "... consider the following harm prompt to help the team think about and guard against potential unintended consequences of your work. — '**_But, this could be harmful for [this user] if [this outcome happens]_**.'"
-  - **Docs**
+  - **Docs and spreadsheets**
     - 🔒 [Doc: Exercises to identify harm in design](https://docs.google.com/document/d/14WP93iljyATBJOBVtpQGcYDoz_oLVmARW_j4-3qPvMM/) by Christine Bath (with additions by Nick Ng)
+    - 🔒 [Risk tracker template](https://docs.google.com/spreadsheets/d/1vdCD4fUdauwdm_Ru17qxPm09820lXHfRcKBroNTUs84/edit#gid=0): Keep track of risks that your project is likely to face or - in the spirit of being ethical technologists - may itself create
